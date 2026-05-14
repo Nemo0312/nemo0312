@@ -1,5 +1,3 @@
-# 💫 About Me:
-<br>👨‍🎓 **Computer Science Student at OU (Fall 2025)**  <br>   - Focused on database management, data analytics, and back-end development.<br><br>🚀 **Tech Enthusiast & Problem Solver**  <br>   - Passionate about solving real-world challenges, from smart transportation to video game dev.<br><br>💻 **Experienced in Software Development**  <br>   - Key projects: ScooterLab data analysis, Diet Companion backend, and AI-driven tools.<br><br>🤿 **OU Swim Team Member**  <br>   - Driven by discipline, teamwork, and a constant push to improve.<br><br>🎮 **Game Development Explorer**  <br>   - Blending creativity and tech, with experience in Python, C#, and Unity.<br><br>📈 **Researcher & Innovator**  <br>   - Collaborating on projects in urban planning, micromobility, and privacy/security.<br><br>
 
 
 ## 🌐 Socials:
